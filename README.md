@@ -4,7 +4,7 @@ Examples in R, Python, and Excel to perform simple linear regression on Meta (Fa
 
 ## Description
 
-This repository contains the dataset and code examples to go along with my blog post about linear regression using Meta (Facebook) ad data. You can read the complete post at https://blog.marketingdatascience.ai. The dataset comes from one of my clients who ran a Facebook campaign in the summer of 2024 in order to promote online sales on their website. In this example, we're just going to focus on establishing a correlation between impressions and clicks.
+This repository contains the dataset and code examples to go along with my blog post about linear regression using Meta (Facebook) ad data. You can read the complete post at [https://blog.marketingdatascience.ai](https://medium.com/@marketingdatascience/linear-regression-the-classic-machine-learning-algorithm-you-need-to-know-1fe0b48b06a3). The dataset comes from one of my clients who ran a Facebook campaign in the summer of 2024 in order to promote online sales on their website. In this example, we're just going to focus on establishing a correlation between impressions and clicks.
 
 ## Getting Started
 
